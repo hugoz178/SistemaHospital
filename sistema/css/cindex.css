@@ -1,0 +1,13 @@
+
+#inic-t
+{
+	background: rgba(255,255,255,.80);
+	margin-right:auto;
+	width: 70%;
+	padding: 100px;
+	margin: 50px auto;
+	border-radius: 20px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+
+}
